@@ -1,2 +1,2 @@
 #!/bin/bash
-su echo "$USER"
+id -u -n
